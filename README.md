@@ -1,1 +1,1 @@
-# Module name
+# Huawei Cloud Relational Database Service PostgreSQL
